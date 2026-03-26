@@ -21,3 +21,10 @@
 
 ## Autor
 Fatima Arana
+## 📊 Resultados
+
+### Radiación solar promedio
+![Radiación Solar](radiacion.png)
+
+### Producción estimada
+![Producción](produccion.png)
