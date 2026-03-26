@@ -27,11 +27,9 @@ Este proyecto analiza datos de radiación solar en Paraguay para estudiar su com
 
 ##  Resultados
 
-### Radiación solar promedio
-![Radiación Solar](radiacion.png)
+![Radiación Solar](outputs/radiacion.png)
 
-### Producción estimada
-![Producción](produccion.png)
+![Producción](outputs/produccion.png)
 
 
 ##  Supuestos del análisis
@@ -40,7 +38,7 @@ Este proyecto analiza datos de radiación solar en Paraguay para estudiar su com
 - Tarifa eléctrica basada en tarifa residencial en Paraguay
 - Datos históricos utilizados como base para estimación
 
-## 📌 Conclusiones
+##  Conclusiones
 
 - Se observa un patrón estacional claro en la radiación solar en Paraguay.
 - Los meses entre octubre y marzo presentan los valores más altos.
@@ -53,5 +51,10 @@ Este proyecto analiza datos de radiación solar en Paraguay para estudiar su com
 - Modelos de predicción de generación solar
 - Simulación para diferentes tipos de usuarios (PYMES, sector público y privado)
 
+##  Documentación completa
+
+Podés visualizar el informe completo del proyecto aquí:
+
+[ [ Descargar informe en PDF](docs/informe_proyecto.pdf)
 ## Autor
 Fatima Arana
